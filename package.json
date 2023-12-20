@@ -1,0 +1,25 @@
+{
+  "name": "todoserverwithexpress",
+  "version": "1.0.0",
+  "description": ">>npm init",
+  "main": "server.js",
+  "scripts": {
+    "start": "npm server.js",
+    "dev": "nodemon server.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laxmiprasanna3/todoserverwithexpress.js.git"
+  },
+  "author": "laxmi prasanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laxmiprasanna3/todoserverwithexpress.js/issues"
+  },
+  "homepage": "https://github.com/laxmiprasanna3/todoserverwithexpress.js#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^21.2.0",
+    "nodemon": "^3.0.2"
+  }
+}
